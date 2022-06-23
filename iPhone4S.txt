@@ -1,0 +1,10 @@
+Attention For all iPhone4S Users!!!!!!!
+
+This is a custom 6.13 IPSW that means it will be updated daily.
+This IPSW Is on beta, so please remember that ur system will be buggy.
+Download 3uTools V2.56 (2021-03-11) to install this.
+You can install a Jailbreak of your choice. After it is done open cydia and add inxoiplaygames repo to your sources (search on google)
+and download Checkmate,Store
+Now you can install older versions of applications that were once supported on IOS 6.13
+I am at any means not responsible for any damage to your phone!!!
+Please backup the data that you cant live without before doing this process.
